@@ -1,0 +1,80 @@
+<html>
+  <head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <style type="text/css">
+      .outer{
+  background-color:yellow;
+  height:800px;
+}
+.first{
+  background-color:white;
+  margin: 20px 40px; 
+  
+}
+
+.inner{
+  padding: 40px 40px;
+}
+.row{
+  
+}
+.span{
+float:left;
+}
+img{
+  width:200px;
+  height:200px;
+}
+    </style>
+  </head>
+  <body>
+  <div class="outer">
+    <div class=" nav bg-info"></div>
+      <div class="first">
+    <div class="inner">
+       <h1>Learn to Create Websites</h1>
+      <p class="text-secondary"> In today's world internet is the most popular way of connecting with the people. At <u>Codeyoung</u> you will learn the essential web development technologies along with real life practice examples, so that you can create you rown website to connect with the people around the world.  </p>
+        <button class="btn btn-success">
+          Get started today
+        </button>
+    </div>
+    </div>
+         
+            <div class="row">
+                <div class="col-4 ">
+              
+              <h5> HTML </h5>
+                  
+                  <p> HTML is the stanard markup language for describing the structure of the web pages. Our HTML tutorials will help you to understand the basics of latest HTML5 language, so that you can create your own website. </p>
+                  <button class=" btn btn-success">Learn more >></button>
+              </div>
+              
+            
+                <div class="col-4  ">
+              
+              <h5>CSS</h5>
+                  <p>CSS is used for for describing the presentation of web pages. CSS can save a lot of time and effort. Our CSS tutorials will help you to learn the essentials of latest CSS3, so that you can control the style and layout of your website.  </p>
+                  <button class='btn btn-success '>Learn more >></button>
+              </div>
+              
+              
+              <div class=" col-4 "> 
+              
+              <h5>Bootstrap</h5>
+                      <p> Bootstarp is a powerful front-end framework for faster and easier wed development. Our Bootstrap tutorials will help you to learn alll the features of latest BOttstarp 4 framework so that you can easily create responsive websites. </p>
+                <button class=" btn btn-success">Learn more >></button>
+              </div>
+              <h4>_______________________________________________________________________________________________________________________________________________________________</h4>
+    <footer>
+      <span>Copyright @ 2022  <u>Codeyoung</u></span>
+      <span id="span"> <u>Terms of use / Privacy policy</u></span>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAqiI7jMa37LJ17zRo8tdkdSQLGfw123jitQ&s" alt="">
+    </footer>
+  </div>
+    
+    
+    
+  </body>
+</html>
